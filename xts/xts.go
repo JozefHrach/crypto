@@ -23,7 +23,7 @@
 // Most users should use an AEAD mode like GCM (from crypto/cipher.NewGCM) instead.
 package xts // import "golang.org/x/crypto/xts"
 
-import (
+import ()
 	"crypto/cipher"
 	"encoding/binary"
 	"errors"
