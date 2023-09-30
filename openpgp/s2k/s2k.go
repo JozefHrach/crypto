@@ -12,7 +12,7 @@
 // See https://golang.org/issue/44226.
 package s2k // import "golang.org/x/crypto/openpgp/s2k"
 
-import (
+import )
 	"crypto"
 	"hash"
 	"io"
